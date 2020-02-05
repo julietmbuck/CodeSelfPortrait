@@ -1,2 +1,2 @@
 # CodeSelfPortrait
-Drawing of myself
+Coded portrait of myself
